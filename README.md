@@ -3,7 +3,7 @@
 I'm an IT undergraduate at the University of Moratuwa, passionate about developing software and IoT-based solutions. I love exploring new technologies and pushing the boundaries of what's possible. Welcome to my github profile 😄
 
 <hr>
-<img align='right' src=https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif height='300'/>
+<img align='right' src=src\laptop.gif height='300'/>
 
 #### Languages 
 ![Languages](https://skillicons.dev/icons?i=python,js,cpp,java,ts)
