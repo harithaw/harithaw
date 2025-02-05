@@ -15,8 +15,3 @@ I'm an IT undergraduate at the University of Moratuwa, passionate about developi
 ![Tech Stack](https://skillicons.dev/icons?i=aws,azure,docker,figma,postman,blender,grafana,arduino,linux&perline=6)
 
 <hr>
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=harithaw&theme=whatsapp-dark2)](https://git.io/streak-stats)
-
-</div>
